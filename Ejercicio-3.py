@@ -1,0 +1,7 @@
+num1=(8)
+num2=(2)
+print(f"La suma entre {num1} y {num2} es {num1 + num2}.")
+print(f"La resta entre {num1} y {num2} es {num1 - num2}.")
+print(f"La division entre {num1} dividido {num2} es {num1 / num2}.")
+print(f"La multiplicacion entre {num1} y {num2} es {num1 * num2}.")
+print(f"El modulo entre {num1} y {num2} es {num1 % num2}.")
